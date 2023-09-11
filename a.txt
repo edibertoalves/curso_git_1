@@ -1,2 +1,5 @@
 testando uma atualização de arquivo 
 a.txt
+enviando
+a funcionalidade
+X
