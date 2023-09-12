@@ -1,3 +1,5 @@
 testando o arquivo para o
 
 a
+
+executando a funcionalidade B
